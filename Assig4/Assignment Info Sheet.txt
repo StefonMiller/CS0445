@@ -1,0 +1,27 @@
+Stefon Miller
+
+Assig4
+
+LEC TUE 9:30
+
+REC TUE 4PM
+
+Due 3/29
+
+Submitted 3/29
+
+Java Files:
+Assig4.java
+Grid.java
+Solution.java
+
+Class Files:
+Assig4.class
+Grid.class
+Solution.class
+
+Program Compiles without error
+
+Program runs without error
+
+My algorithm uses less calls when compared to the output files in all instances except one. 

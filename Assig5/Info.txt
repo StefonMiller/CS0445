@@ -1,0 +1,3 @@
+CS0445 Spring 2016
+
+In this project I implemented Huffman compression to decode and encode trees
